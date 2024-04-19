@@ -2,7 +2,7 @@ const pinataSDK = require("@pinata/sdk");
 
 let pinataOptions = {
   pinataOptions: {
-    cidVersion: 0,
+    cidVersion: 1,
     wrapWithDirectory: false,
   },
 };
